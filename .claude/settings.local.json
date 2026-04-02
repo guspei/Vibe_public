@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx tsc:*)",
+      "Bash(git -C /Users/eduardopeire/Documents/GitHub/Vibe_public remote -v)",
+      "Bash(rm -rf .git)",
+      "Bash(git init:*)",
+      "Bash(git branch:*)",
+      "Bash(git -C /Users/eduardopeire/Documents/GitHub/Vibe_public remote add origin https://github.com/guspei/Vibe_public.git)",
+      "Bash(git add:*)"
+    ]
+  }
+}
